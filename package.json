@@ -1,0 +1,19 @@
+{
+    "name": "com.deltafield.day-and-nightskyboxshader",
+    "displayName": "Day-and-NightSkyboxShader",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "Procedural skybox. Draws sunrises and sunsets skies.",
+    "keywords": ["shader", "material", "hlsl", "vr", "xr", "skybox"],
+    "author": {
+        "name": "DeltaField"
+    },
+    "license": "MIT",
+    "licenseUrl": "https://github.com/r-delta-c/Day-and-NightSkyboxShader/blob/main/LICENSE.md",
+    "dependencies": {
+        "com.deltafield.shader_commons":"1.0.0"
+    },
+    "vpmDependencies":{
+        "com.deltafield.shader_commons":"1.0.0"
+    }
+}

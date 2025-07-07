@@ -1,0 +1,8 @@
+name: Build Release
+
+on: 
+  workflow_dispatch:
+
+jobs:
+  release:
+    uses: r-delta-c/BuildReleaseCustomActions/.github/workflows/release.yml@v1
