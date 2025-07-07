@@ -37,7 +37,7 @@ Day-and-NightSkyboxShaderは昼夜を連続した空の景色を描写するこ�
 
 ### VPM - ***推奨***
 [Package Listing WEB](https://r-delta-c.github.io/vpm_repository/)へ移動し、**Add to VCC**というボタンを押して、VRChat Creator Companionを開きます。<br>
-リポジトリを加えましたら、導入したいプロジェクトのManage Packagesを開き、一覧に加わっているMeshHologramをインストールしてください。
+リポジトリを加えましたら、導入したいプロジェクトのManage Packagesを開き、一覧に加わっているDay-and-NightSkyboxShaderをインストールしてください。
 
 ### Package Manager - ***推奨***
 Unityのタブメニューから、**Window -> Package Manager**を押してPackage Managerを開きます。<br>
